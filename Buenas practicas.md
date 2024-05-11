@@ -1,4 +1,3 @@
----
 ## Convención de escritura 🖊️
 - Para nombrar carpetas voy a utilizar la convención de escritura **PascalCase con snake_case**.
 	- Ej: 📁 Talento_Tech
@@ -11,7 +10,7 @@
 	- Arrays **(camelCase)**: listaNombres, arrayNumeros, elementosValidos.
 	- Objetos **(PascalCase)**: MiObjeto, Usuario, Producto.
 	- Clases **(PascalCase)**: ClasePrincipal, Estudiante, ControladorUsuario.
-
+	
 ## Nombrar Variables, Funciones, Objetos y Clases ✅
 - ❌ **NO se puede hacer** :
 	- Colocar números (Evitarlo).
@@ -24,10 +23,10 @@
 	- En positivo.
 
 ### Idioma para nombrar tipos de datos en JS
-- Para nombrar los tipos de datos vamos a utilizar el idioma **INGLES**. Esto se hace para ir ganando vocabulario, poderse integrar mas con la cominidad angloparlante y tener un reto mayor a la hora de codificar.
+- Para nombrar los tipos de datos vamos a utilizar el idioma **INGLES**. Esto se hace para ir ganando vocabulario, poderse integrar mas con la comunidad angloparlante y tener un reto mayor a la hora de codificar.
 
 ### Nombrando variables del DOM
-- Lo mas correcto es utilizar el mismo nombre que tienen en el HTML y CSS (En este caso manejo la metodologia BEM).
+- Lo mas correcto es utilizar el mismo nombre que tienen en el HTML y CSS (En este caso manejo la metodología BEM).
 
 ```html
 <header class='header'>
@@ -42,8 +41,8 @@ const HEADER_TITLE = document.querySelector('.header__h1');
 const HEADER_NAV   = document.querySelector('.header__nav');
 ```
 
-### Nombrando variables Numericas Js
-- Desde ahora ya no se dejan de utilizar magic numbers (Numeros colocados sin explicacion, sin saber porque se eligieron o que representa en el codigo). Para evitar los magic numbers vamos a utilizar nombres descriptivos segun su funcion y si no cambia el valor lo mas correcto es colocarlo en un const (Palabra clave para declarar variables constantes).
+### Nombrando variables Numéricas Js
+- Desde ahora ya no se dejan de utilizar magic numbers (Números colocados sin explicación, sin saber porque se eligieron o que representa en el código). Para evitar los magic numbers vamos a utilizar nombres descriptivos según su función y si no cambia el valor lo mas correcto es colocarlo en un const (Palabra clave para declarar variables constantes).
 
 ```javascript
 let imagenes = ['Imagen1','Imagen2'];
@@ -67,7 +66,7 @@ let hasImgAnimation = true;  ✅  // Tiene la imagen una animacion?
 ```
 
 ### Nombrando arrays Js
-- Para nombrar los arrays (listas) vamos a siempre nombralos en plural segun los elementos que vaya a contener el array, y es opcional el quere agregarle la palabra lista (list) para aclarar que es un array.
+- Para nombrar los arrays (listas) vamos a siempre nómbralos en plural según los elementos que vaya a contener el array, y es opcional el quiere agregarle la palabra lista (list) para aclarar que es un array.
 
 ```javascript
 let imagen       = []; ❌ // No describe que va contener la lista.
@@ -75,7 +74,7 @@ let imagenesList = []: ✅ // Esta en plural y el posfijo "List".
 ```
 
 ### Nombrando objetos Js
-- Para nombrar los objetos siempre tienen que estar en singular y utilizando la convencion de escritura PascalCase.
+- Para nombrar los objetos siempre tienen que estar en singular y utilizando la convención de escritura PascalCase.
 
 ```javascript
 let pelicula = {}; ❌
@@ -83,7 +82,7 @@ let Pelicula = {}: ✅
 ```
 
 ### Nombrando funciones Js
-- Para nombrar funciones tratamos siempre de colocarle un verbo y que describa que va a hacer (Una funcion solo resuleve un problema).
+- Para nombrar funciones tratamos siempre de colocarle un verbo y que describa que va a hacer (Una función solo resuelve un problema).
 
 ```javascript
 let activate     = () => {} ❌
@@ -91,7 +90,7 @@ let headerIsActive = () => {} ✅
 ```
 
 ### Nombrando funciones handler (Manejadora) Js
-- La funcion handler (Manejadoras) son funciones que se utilizan para manejar o responder a eventos generados por el usuario o por el navegador.
+- La función handler (Manejadoras) son funciones que se utilizan para manejar o responder a eventos generados por el usuario o por el navegador.
 
 ```javascript
 const HEADER_BUTTON = document.querySelecto('.header__button');
