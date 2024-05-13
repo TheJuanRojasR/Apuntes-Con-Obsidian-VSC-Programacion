@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "6153bc4e6ca655b2",
+            "id": "8c0df1eb37659e08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/13_creacion_boolean_Js.md",
+                "file": "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/16_casting_Js.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/13_creacion_boolean_Js.md",
+                "file": "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/16_casting_Js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/13_creacion_boolean_Js.md",
+                "file": "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/16_casting_Js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/13_creacion_boolean_Js.md"
+                "file": "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/16_casting_Js.md"
               }
             }
           }
@@ -159,21 +159,26 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "6153bc4e6ca655b2",
+  "active": "8c0df1eb37659e08",
   "lastOpenFiles": [
-    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/12_creacion_number_Js.md",
-    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/11_manipulacion_string_Js.md",
-    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/09_creacion_string_Js.md",
+    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/15_casting_coercion_Js.md",
+    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/16_casting_Js.md",
+    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/14_creacion_null_undefined_symbol_bigint_Js.md",
     "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/13_creacion_boolean_Js.md",
+    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/11_manipulacion_string_Js.md",
+    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/08_paso_por_referencia_Js.md",
+    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/07_paso_por_valor_Js.md",
+    "Sin título.md",
+    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/05_anatomia_variable_Js.md",
     "Buenas practicas.md",
+    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/Sin título.md",
+    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/12_creacion_number_Js.md",
+    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/09_creacion_string_Js.md",
     "1. Platzi/1. JavaScript_Desde_Cero/2. Code/11_manipulacion_string.js",
     "1. Platzi/1. JavaScript_Desde_Cero/2. Code/09_creacion_string.js",
     "1. Platzi/1. JavaScript_Desde_Cero/2. Code/07_paso_por_valor.js",
     "1. Platzi/1. JavaScript_Desde_Cero/2. Code/06_tipos_de_datos.js",
-    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/08_paso_por_referencia_Js.md",
     "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/06_tipos_datos_Js.md",
-    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/07_paso_por_valor_Js.md",
-    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/05_anatomia_variable_Js.md",
     "09_creacion_string_Js].md",
     "09_creacion_string_Js 1].md",
     "05 de Mayo del 2024.md",
