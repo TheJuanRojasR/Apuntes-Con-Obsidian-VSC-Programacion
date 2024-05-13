@@ -9,7 +9,7 @@
 - Se pueden tener Strings Primitivos y Strings Objetos. La diferencia entre ambos es que los Strings Objetos se pueden modificar por que son mutables.
 	- String primitivos: `const primitiveString = 'I am a primitive String';`
 	- String objeto: `const stringObject = new Sting('I am a string object');`
-- `type of` : nos sirve para saber que tipo de dato es. 
+- `typeof` : nos sirve para saber que tipo de dato es. 
 - Recordar: Recordemos que un string es como un array de caracteres entonces podemos recorrer cada carácter.
 #### Métodos de Strings
 
@@ -38,5 +38,10 @@
 	- `const stringWithoutSpaces= stringExample.trim();`
 	  `console.log(stringWithoutSpaces);`
 - Reemplazar una palabra dentro de nuestro string
-	- `cons newStringExample = stringExample.replace('remove','add')`
+	- `const newStringExample = stringExample.replace('remove','add')`
 	  `console.log(newStringExample)`
+- Convertir un TDP String a TDP Number: 
+	- `const string = '10'; `
+	  `console.log( typeof Number( string ) );   // number`
+	- `console.log( typeof parseInt( string ) ); // number`
+	- [[12_creacion_number_Js#Diferencia entre Number() y parseInt()|Diferencia entre Number y parseInt]]

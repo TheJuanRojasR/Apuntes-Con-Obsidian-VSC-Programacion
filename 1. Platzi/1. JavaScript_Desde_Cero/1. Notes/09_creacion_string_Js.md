@@ -20,13 +20,14 @@
 			- Unir arrays
 			- Agregar elementos a un array
 			- Clonar arrays
+	- [[11_manipulacion_string_Js#Métodos de Strings|Métodos de manipulación de Strings]]
 #### Caracteres de escape
 
 - Definición: Los caracteres de escape son una forma de indicar al programa que un determinado carácter debe interpretarse literalmente, en lugar de su significado especial. 
 - Definición mía: Son como pequeños trucos que usamos para decirle al programa que queremos incluir ciertos caracteres especiales dentro de un texto, como comillas, saltos de línea o tabulaciones.
 - Ejemplos: `\n` (salto de línea), `\t` (tabulación), `\\` (barra invertida).
 - Cuando trabajamos con Strings largos tenemos 3 formas de hacerlos:
-	- Usar comillas simples y concatenar
+	- Usar comillas simples y concatenar +
 	  ```JavaScript
 const poem = 'Yo no hablo de venganzas ni de perdones;\n' +
 'el olvido es la única venganza\n' +
