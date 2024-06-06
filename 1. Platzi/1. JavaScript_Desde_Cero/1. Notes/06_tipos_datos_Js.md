@@ -40,8 +40,8 @@ console.log(a); // 10. No lo cambia porque solo tomo una copia de la variable, m
 	- Function: Almacena bloques de código reutilizables que realizan una tarea específica cuando son invocados.
 	  
 ```JavaScript
-let personOne = { name: "Juan" }; // Se guarda como referencia.
+let personOne = { name: "Juan" };    // Se guarda como referencia.
 let personTwe = personOne;           // Tienen la misma referencia.
 personTwe.name = "Carlos";
-console.log(personOne.name); // Output: Carlos
+console.log(personOne.name);         // Output: Carlos
  
