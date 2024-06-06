@@ -36,4 +36,39 @@ console.log(stringExample.trim()); // Elimina los espacios al principio y al fin
 // 11. replace
 console.log(stringExample.replace('string', 'number')); // Reemplaza una palabra por otra
 
+// Ejercicios
+
+// 1. Longitud de una cadena: Escribe una función que tome una cadena como entrada y devuelva su longitud.
+function sizeString( string ){
+    return console.log( string.length )
+}
+sizeString( stringExample );
+
+// 2. Mayúsculas y minúsculas: Escribe una función que tome una cadena como entrada y la convierta a 
+// mayúsculas o minúsculas.
+function convertToUpperCase( string ){
+    return console.log( string.toLocaleUpperCase() )
+}
+convertToUpperCase( stringExample );
+
+// 3. Recortar espacios en blanco: Escribe una función que tome una cadena como entrada y elimine los 
+// espacios en blanco al principio y al final de la cadena.
+function removeSpaces( string ){
+    return console.log( string.trim() )
+}
+removeSpaces( stringExample );
+
+// 4. Extraer una subcadena: Escribe una función que tome una cadena y dos enteros como entrada, y devuelva la subcadena 
+// de la cadena original que comienza en el primer entero (índice 0) y termina en el segundo entero (exclusivo).
+function extractSubstring( string, numberOne, numberTwe ){
+    return console.log( string.slice(numberOne, numberTwe) );
+}
+extractSubstring( stringExample, 1, 15 );
+
+// 5. Reemplazar caracteres: Escribe una función que tome una cadena, un carácter y otro carácter como entrada, 
+// y devuelva la cadena original con todas las apariciones del primer carácter reemplazadas por el segundo carácter.
+function replaceString( string, characterOne, characterTwe ){
+    return console.log( string.replace( characterOne, characterTwe ) );
+}
+replaceString( stringExample, 'o', 'z' );
 
