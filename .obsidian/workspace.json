@@ -20,13 +20,13 @@
             }
           },
           {
-            "id": "8c0df1eb37659e08",
+            "id": "129cf415044d56e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/08_paso_por_referencia_Js.md",
-                "mode": "preview",
+                "file": "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/22_Identificador_this_Js.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 252.5
   },
   "right": {
     "id": "065a85ab41a7cf1f",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/08_paso_por_referencia_Js.md",
+                "file": "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/22_Identificador_this_Js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/08_paso_por_referencia_Js.md",
+                "file": "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/22_Identificador_this_Js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/08_paso_por_referencia_Js.md"
+                "file": "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/22_Identificador_this_Js.md"
               }
             }
           }
@@ -151,30 +151,37 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "8c0df1eb37659e08",
+  "active": "129cf415044d56e7",
   "lastOpenFiles": [
+    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/21_funcionesPuras_inpuras_Js.md",
+    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/22_Identificador_this_Js.md",
+    "Buenas practicas.md",
+    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/20_funcionesVsmetodos_Js.md",
+    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/18_funciones_Js.md",
+    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/16_casting_Js.md",
+    "Sin título.md",
+    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/08_paso_por_referencia_Js.md",
+    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/15_casting_coercion_Js.md",
+    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/14_creacion_null_undefined_symbol_bigint_Js.md",
+    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/13_creacion_boolean_Js.md",
+    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/12_creacion_number_Js.md",
+    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/11_manipulacion_string_Js.md",
+    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/09_creacion_string_Js.md",
     "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/07_paso_por_valor_Js.md",
     "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/06_tipos_datos_Js.md",
     "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/05_anatomia_variable_Js.md",
-    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/09_creacion_string_Js.md",
-    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/18_funciones_Js.md",
-    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/11_manipulacion_string_Js.md",
-    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/12_creacion_number_Js.md",
-    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/08_paso_por_referencia_Js.md",
-    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/13_creacion_boolean_Js.md",
-    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/14_creacion_null_undefined_symbol_bigint_Js.md",
-    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/15_casting_coercion_Js.md",
-    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/16_casting_Js.md",
-    "Buenas practicas.md",
-    "Sin título.md",
+    "1. Platzi/1. JavaScript_Desde_Cero/2. Code/16_casting_coercion.js",
+    "1. Platzi/1. JavaScript_Desde_Cero/2. Code/14_creacion_null_undefined_symbol_bigint.js",
+    "1. Platzi/1. JavaScript_Desde_Cero/2. Code/13_creacion_boolean.js",
+    "1. Platzi/1. JavaScript_Desde_Cero/2. Code/12_creacion_number.js",
     "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/Sin título.md",
     "1. Platzi/1. JavaScript_Desde_Cero/2. Code/11_manipulacion_string.js",
     "1. Platzi/1. JavaScript_Desde_Cero/2. Code/09_creacion_string.js",
@@ -186,7 +193,6 @@
     "Buenas practicas 1.md",
     "1. Platzi/1. JavaScript_Desde_Cero/2. Code",
     "1. Platzi/1. JavaScript_Desde_Cero/1. Notes",
-    "1. Platzi/1. JavaScript_Desde_Cero",
     "F.md"
   ]
 }

@@ -14,7 +14,7 @@
 - [[15_casting_coercion_Js#Coerción Implícita y Explícita|Definición y Explicación de coerción implícita]]
 - Cuando inicia con un string: Cuando el proceso comienza o contiene un string el programa va a interpretar que queremos concatenar.
 	- `const sum = '5' + 3;`
-	  `console.log( sum ); // ` 
+	  `console.log( sum ); // '53' ` 
 - Cuando inicia con un number: Cuando el proceso inicia con un number el programa va interpretar que queremos hacer operaciones. 
 	- `const sumWhitNumber = 2 + true;`
 	  `console.log( sumWhitNumber ); // 3` 

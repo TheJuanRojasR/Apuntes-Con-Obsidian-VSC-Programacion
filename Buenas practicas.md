@@ -74,11 +74,11 @@ let imagenesList = []: ✅ // Esta en plural y el posfijo "List".
 ```
 
 ### Nombrando objetos Js
-- Para nombrar los objetos siempre tienen que estar en singular y utilizando la convención de escritura PascalCase.
+- Para nombrar los objetos siempre tienen que estar en singular y utilizando la convención de escritura camelCase.
 
 ```javascript
-let pelicula = {}; ❌
-let Pelicula = {}: ✅
+let pelicula = {}; ✅
+let Pelicula = {}: ❌ // Se puede confundir con una clase
 ```
 
 ### Nombrando funciones Js

@@ -3,7 +3,7 @@
 ## Resumen
 ### Tema : Anatomía de una función 
 
-- Definición: Fragmentos de código que nos permite escribir funcionalidades genéricas para poder utilizarlas una y otra ve z.
+- Definición: Fragmentos de código que nos permite escribir funcionalidades genéricas para poder utilizarlas una y otra vez.
 - Metáfora: Son como piezas de lego porque podemos arma muchos elementos mas complejos con las mismas funciones. 
 #### Entender que necesitamos para crear una función
 

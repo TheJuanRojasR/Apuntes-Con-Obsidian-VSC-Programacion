@@ -22,7 +22,7 @@
 - Casos que se aplica la coerción booleana:
 	- Condicionales: Cuando utilizamos if ya que su resultado es un 'true' o 'false'
 	- Operadores lógicos: Cuando utilizamos los operadores explicados anteriormente.
-	- Comparaciones booleanas: Cuando tenemos que comprar valores booleanos con los operadores: 
+	- Comparaciones booleanas: Cuando tenemos que comparar valores booleanos con los operadores: 
 		- ==    : Las variables son iguales (No importa el tipo de dato)
 		- === : Las variable son iguales (Importa el valor y el tipo de dato)
 		- !=     : Las variables son distintas (Solo compara sus valores)
@@ -43,7 +43,7 @@
 	  `console.log(parseBool("true")); // Imprime true`
 	- Doble negación !! : Es una forma de operador unitario para convertir un tipo de dato negándolo dos veces. 
 	  `const texto = "Hola";`
-	  `const booleano = !!texto;`
+	  `const booleano = !!texto; // El valor true se guarda en Booleano`
 	  `console.log(booleano); // Imprime true (la cadena "Hola" es truthy)`
 #### Definición de Truthy y Falsy
 
