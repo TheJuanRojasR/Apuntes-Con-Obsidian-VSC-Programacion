@@ -12,7 +12,6 @@
 - **En un método de un objeto:** Cuando una función se invoca como un método de un objeto, `this` se refiere a ese objeto.
 - **En una función de constructor:** Cuando una función se utiliza como un constructor con `new`, `this` se refiere al nuevo objeto que se está creando.
 - **En una función en modo estricto:** En modo estricto (`"use strict";`), `this` será `undefined` si la función se invoca sin un contexto.
-
 #### Enlace Implícito
 
 - El **enlace implícito** ocurre cuando una función es invocada como un método de un objeto. En este caso, `this` se refiere al objeto desde el cual se invoca la función.
@@ -26,7 +25,6 @@ const person = {
 }; 
 person.showDetails(); // My name is Juan
 ```
-
 #### Enlace Explicito
 
 - El **enlace explícito** de `this` se refiere a cuando utilizamos métodos como `call`, `apply` o `bind` para establecer manualmente el valor de `this` en una función. Esto es útil cuando tenemos una función y un objeto separados, y queremos que la función se ejecute en el contexto de ese objeto.

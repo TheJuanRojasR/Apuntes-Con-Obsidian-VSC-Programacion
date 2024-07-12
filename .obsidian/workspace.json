@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/22_Identificador_this_Js.md",
+                "file": "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/28_UseStrict_Js.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/22_Identificador_this_Js.md",
+                "file": "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/28_UseStrict_Js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/22_Identificador_this_Js.md",
+                "file": "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/28_UseStrict_Js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/22_Identificador_this_Js.md"
+                "file": "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/28_UseStrict_Js.md"
               }
             }
           }
@@ -161,10 +161,14 @@
   },
   "active": "129cf415044d56e7",
   "lastOpenFiles": [
-    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/21_funcionesPuras_inpuras_Js.md",
-    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/23_Metodos_call_apply_bind_Js.md",
+    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/26_funcionContructora_Js.md",
+    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/28_UseStrict_Js.md",
+    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/18_funciones_Js.md",
+    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/24_arrowsFunction_Js.md",
     "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/20_funcionesVsmetodos_Js.md",
+    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/23_Metodos_call_apply_bind_Js.md",
     "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/22_Identificador_this_Js.md",
+    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/21_funcionesPuras_inpuras_Js.md",
     "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/08_paso_por_referencia_Js.md",
     "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/07_paso_por_valor_Js.md",
     "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/06_tipos_datos_Js.md",
@@ -174,7 +178,6 @@
     "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/11_manipulacion_string_Js.md",
     "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/12_creacion_number_Js.md",
     "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/13_creacion_boolean_Js.md",
-    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/18_funciones_Js.md",
     "Buenas practicas.md",
     "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/16_casting_Js.md",
     "Sin título.md",
@@ -193,7 +196,6 @@
     "05 de Mayo del 2024.md",
     "Buenas practicas 1.md",
     "1. Platzi/1. JavaScript_Desde_Cero/2. Code",
-    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes",
-    "F.md"
+    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes"
   ]
 }

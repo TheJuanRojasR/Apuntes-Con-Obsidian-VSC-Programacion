@@ -26,3 +26,16 @@ suma(3,5)
 - Llaves ( {} ): Dentro de las llaves vamos a poner el código para solucionar el problema.
 - Cuerpo de función ( return a + b; ): El código creado dentro de las llaves.
 - Llamado ( suma(3,5) ): Cuando creamos una función tenemos que llamarla para que se pueda ejecutar. Para poder llamar una función lo que tenemos que hacer es poder el nombre de la función seguido de paréntesis. Si tenemos parámetros lo agregamos (Se pasan a llamar Argumentos)
+#### Tipos de funciones
+
+1. **Funciones Declarativas (o con nombre)**
+2. **Funciones Expresivas (o anónimas)**
+3. **Funciones Flecha**
+4. **Funciones Constructoras**
+5. **Funciones de Orden Superior (Higher-Order Functions)**
+6. **Funciones Recursivas**
+7. **Funciones Anidadas (Nested Functions)**
+8. **Métodos de Objeto**
+9. **Funciones Asincrónicas**
+10. **Funciones Puras**
+

@@ -16,7 +16,6 @@
 	- Manipulación del DOM
 	- Obtener hora, día, año.
 (Que las funciones tengan side effects no significa que sean funciones malas)
-
 #### Estructura de una función  pura 
 
 ```JavaScript
