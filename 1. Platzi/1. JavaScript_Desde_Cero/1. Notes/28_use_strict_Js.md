@@ -1,4 +1,4 @@
-<sub> Fecha: 08 de julio del 2024 </sub>
+<sub> Fecha: 10 de julio del 2024 </sub>
 <sub> Clase 28/79 </sub>
 ## Resumen
 
@@ -33,4 +33,4 @@ console.log( 0o22 )
 10. Nuevas palabras reservadas: no se podrán utilizar las siguiente palabras reservadas.
 	1. class, enum, extends, super, const, export, import.
 	2. Con 'use strict': implemets, package, public, interface, static, private, protected, yield, let.
-11. Funciones libres: 
+11. Funciones libres

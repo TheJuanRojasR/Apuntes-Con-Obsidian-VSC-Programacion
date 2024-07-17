@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/28_UseStrict_Js.md",
+                "file": "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/34_if_condicional_Js.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/28_UseStrict_Js.md",
+                "file": "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/34_if_condicional_Js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/28_UseStrict_Js.md",
+                "file": "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/34_if_condicional_Js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/28_UseStrict_Js.md"
+                "file": "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/34_if_condicional_Js.md"
               }
             }
           }
@@ -161,13 +161,18 @@
   },
   "active": "129cf415044d56e7",
   "lastOpenFiles": [
-    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/26_funcionContructora_Js.md",
-    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/28_UseStrict_Js.md",
-    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/18_funciones_Js.md",
-    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/24_arrowsFunction_Js.md",
-    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/20_funcionesVsmetodos_Js.md",
-    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/23_Metodos_call_apply_bind_Js.md",
+    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/33_operadores_logicos_Js.md",
+    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/34_if_condicional_Js.md",
+    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/32_operadores_comparacion_Js.md",
+    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/30_expresionesVSdeclaraciones_Js.md",
+    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/29_tipos_binding_Js.md",
+    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/26_funcion_contructora_Js.md",
+    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/28_use_strict_Js.md",
+    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/23_metodos_call_apply_bind_Js.md",
+    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/24_arrows_function_Js.md",
     "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/22_Identificador_this_Js.md",
+    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/18_funciones_Js.md",
+    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/20_funcionesVsmetodos_Js.md",
     "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/21_funcionesPuras_inpuras_Js.md",
     "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/08_paso_por_referencia_Js.md",
     "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/07_paso_por_valor_Js.md",
@@ -186,15 +191,10 @@
     "1. Platzi/1. JavaScript_Desde_Cero/2. Code/14_creacion_null_undefined_symbol_bigint.js",
     "1. Platzi/1. JavaScript_Desde_Cero/2. Code/13_creacion_boolean.js",
     "1. Platzi/1. JavaScript_Desde_Cero/2. Code/12_creacion_number.js",
-    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/Sin título.md",
     "1. Platzi/1. JavaScript_Desde_Cero/2. Code/11_manipulacion_string.js",
     "1. Platzi/1. JavaScript_Desde_Cero/2. Code/09_creacion_string.js",
     "1. Platzi/1. JavaScript_Desde_Cero/2. Code/07_paso_por_valor.js",
     "1. Platzi/1. JavaScript_Desde_Cero/2. Code/06_tipos_de_datos.js",
-    "09_creacion_string_Js].md",
-    "09_creacion_string_Js 1].md",
-    "05 de Mayo del 2024.md",
-    "Buenas practicas 1.md",
     "1. Platzi/1. JavaScript_Desde_Cero/2. Code",
     "1. Platzi/1. JavaScript_Desde_Cero/1. Notes"
   ]
