@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/34_if_condicional_Js.md",
+                "file": "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/39_forEach_ciclo_Js.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/34_if_condicional_Js.md",
+                "file": "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/39_forEach_ciclo_Js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/34_if_condicional_Js.md",
+                "file": "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/39_forEach_ciclo_Js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/34_if_condicional_Js.md"
+                "file": "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/39_forEach_ciclo_Js.md"
               }
             }
           }
@@ -161,10 +161,14 @@
   },
   "active": "129cf415044d56e7",
   "lastOpenFiles": [
-    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/33_operadores_logicos_Js.md",
+    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/38_for_ciclo_Js.md",
+    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/39_forEach_ciclo_Js.md",
+    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/37_switch_condicional_Js.md",
+    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/36_operador_ternario_Js.md",
     "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/34_if_condicional_Js.md",
-    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/32_operadores_comparacion_Js.md",
     "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/30_expresionesVSdeclaraciones_Js.md",
+    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/32_operadores_comparacion_Js.md",
+    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/33_operadores_logicos_Js.md",
     "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/29_tipos_binding_Js.md",
     "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/26_funcion_contructora_Js.md",
     "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/28_use_strict_Js.md",
@@ -183,10 +187,6 @@
     "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/11_manipulacion_string_Js.md",
     "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/12_creacion_number_Js.md",
     "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/13_creacion_boolean_Js.md",
-    "Buenas practicas.md",
-    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/16_casting_Js.md",
-    "Sin título.md",
-    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/05_anatomia_variable_Js.md",
     "1. Platzi/1. JavaScript_Desde_Cero/2. Code/16_casting_coercion.js",
     "1. Platzi/1. JavaScript_Desde_Cero/2. Code/14_creacion_null_undefined_symbol_bigint.js",
     "1. Platzi/1. JavaScript_Desde_Cero/2. Code/13_creacion_boolean.js",
