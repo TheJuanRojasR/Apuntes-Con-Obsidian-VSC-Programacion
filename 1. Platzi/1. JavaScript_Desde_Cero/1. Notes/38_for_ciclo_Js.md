@@ -15,7 +15,6 @@ for ( variable; condicion; actualizacion ) {
 // condicion: Se coloca una condicion y si esta es true el bloque de codigo se va                a ejecuutar. Esta se evalua antes de cada iteracion. 
 // actualizacion: Esta se ejecuta al final de cada iteracion. Incrementa o                           decrementa la variable de control.
 ```
-
 ### Utilidad
 
 1. **Iteración sobre un Rango de Números**: Cuando necesitas ejecutar un bloque de código un número específico de veces.
