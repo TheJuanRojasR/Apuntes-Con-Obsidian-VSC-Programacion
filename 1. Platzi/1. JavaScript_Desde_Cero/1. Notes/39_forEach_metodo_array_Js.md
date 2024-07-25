@@ -71,3 +71,16 @@ numbers.forEach(function(number) {
 ```
 
 3. **Realizar operaciones de entradas/salidas para cada elemento de un array:** 
+
+```JavaScript
+const names = ['Alice', 'Bob', 'Charlie'];
+const namesList = document.createElement( 'ul' );
+
+names.forEach(name => {
+  const listItem = document.createElement( 'li' );
+  listItem.textContent = name;
+  namesList.appendChild( listItem );
+});
+
+document.body.appendChild( namesList );
+```
